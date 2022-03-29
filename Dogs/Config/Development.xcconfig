@@ -1,0 +1,12 @@
+//
+//  Development.xcconfig
+//  Dogs
+//
+//  Created by Jesus Loaiza Herrera on 25/03/22.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+APP_ENDPOINT = jsonblob.com
