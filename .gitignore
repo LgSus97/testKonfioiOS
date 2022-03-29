@@ -57,6 +57,7 @@ playground.xcworkspace
 # Pods/
 Pods/*.xcodeproj/xcuserdata/
 Pods/*.xcodeproj/project.xcworkspace/xcuserdata/
+Pods/Realm/core/realm-monorepo.xcframework/
 # Add this line if you want to avoid checking in source code from the Xcode workspace
 # *.xcworkspace
 
